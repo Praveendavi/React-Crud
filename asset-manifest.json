@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Praveendavi/React-Crud/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/Praveendavi/React-Crud/static/js/main.84665fd4.chunk.js",
+    "main.js.map": "/Praveendavi/React-Crud/static/js/main.84665fd4.chunk.js.map",
+    "runtime-main.js": "/Praveendavi/React-Crud/static/js/runtime-main.b7bd4358.js",
+    "runtime-main.js.map": "/Praveendavi/React-Crud/static/js/runtime-main.b7bd4358.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Praveendavi/React-Crud/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6e3e1c0e.chunk.js": "/Praveendavi/React-Crud/static/js/2.6e3e1c0e.chunk.js",
+    "static/js/2.6e3e1c0e.chunk.js.map": "/Praveendavi/React-Crud/static/js/2.6e3e1c0e.chunk.js.map",
+    "index.html": "/Praveendavi/React-Crud/index.html",
+    "precache-manifest.e0215b92059c448607d1845080ba4f3a.js": "/Praveendavi/React-Crud/precache-manifest.e0215b92059c448607d1845080ba4f3a.js",
+    "service-worker.js": "/Praveendavi/React-Crud/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Praveendavi/React-Crud/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/Praveendavi/React-Crud/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.6e3e1c0e.chunk.js.LICENSE.txt": "/Praveendavi/React-Crud/static/js/2.6e3e1c0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7bd4358.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6e3e1c0e.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.84665fd4.chunk.js"
+  ]
+}
